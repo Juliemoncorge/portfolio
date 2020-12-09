@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/carre.css");
+@import url("components/certifications.css");
+@import url("components/entete.css");
+@import url("components/icone.css");
+
+body{
+	font-family: 'Nunito', sans-serif;
+	font-size: 20px;
+	line-height: 38px;
+	margin:0px;
+	padding-bottom: 30px;
+	background-color: #f7f7f7;
+}
+h1 {
+	font-family: 'Radley', serif;
+	font-weight : bold;
+	font-size: 25px;
+}
+
+h2{
+	font-family: 'Radley', serif;
+    font-size: 36px;
+    text-align: center;
+}
+
+h4{
+
+	font-family: 'Radley', serif;
+	font-size: 35px;
+}
+
+a{
+	text-decoration: none;
+}

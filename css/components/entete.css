@@ -1,0 +1,58 @@
+.rubrique{
+	display: flex;
+	min-height: 35vh;
+	background-color: #f7f7f7;
+
+}
+
+
+
+.entete{
+
+	align-items: center;
+	text-align: center;
+	justify-content: space-around;
+	line-height: 25px;
+
+	padding-top: 30px;
+	margin-left:30px;
+	margin-right: 60px;
+	flex-grow: 1;
+	width: 250px;
+	background-color: #f7f7f7;
+
+}
+
+.entete img{
+	padding-left: 0px;
+	padding-top: 0px;
+	align-items: center;
+	height: 220px;
+	box-shadow: 0px 0px 20px grey;
+	border-radius: 4px;
+
+}
+
+
+.entete #logo-amande{
+	height: 75px;
+	padding-top: 0px;
+
+}
+
+.entete p{
+	font-family: 'Nunito', sans-serif;
+	font-size: 28px;
+	line-height: 40px;
+}
+
+
+.entete i{
+  font-size: 45px;
+  color : rgb(180, 180, 180);
+}
+
+.entete i:hover{
+
+  color : black;
+}
